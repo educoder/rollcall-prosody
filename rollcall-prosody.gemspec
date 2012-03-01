@@ -3,7 +3,7 @@ Gem::Specification.new do |s|
   s.version = "0.0.1"
   s.authors = ["Matt Zukowski"]
   s.date = %q{2012-01-20}
-  s.summary = %q{Rollcall plugin for integration with prosody}
+  s.summary = %q{Rollcall plugin for integration with the Prosody XMPP server}
   s.email = %q{matt dot zukowski at utoronto dot ca}
   s.files = `git ls-files`.split("\n")
   s.homepage = %q{http://github.com/educoder/rollcall-prosody}
